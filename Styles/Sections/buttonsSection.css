@@ -1,0 +1,7 @@
+.buttonsSection{
+    min-width: 100px;
+    max-width: 340px;
+    margin-top: 10px;
+    padding: 30px;
+    border: solid 1px black;
+}
